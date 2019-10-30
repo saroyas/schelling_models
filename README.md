@@ -1,2 +1,2 @@
 # schelling_models
-Exploring, through simulation, Schelling models
+Exploring Schelling models through simulations
